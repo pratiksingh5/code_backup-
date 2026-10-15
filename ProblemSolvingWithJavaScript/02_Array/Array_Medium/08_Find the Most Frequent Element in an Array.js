@@ -1,0 +1,1 @@
+// Given an array of integers, find the element that appears most frequently. If there are multiple elements that appear the same maximum number of times, return any one of them. Your task is to complete the function.

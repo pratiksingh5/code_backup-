@@ -1,0 +1,1 @@
+// Given an unsorted array of integers, find the smallest positive integer that does not appear in the array. Ignore negative numbers and zero, and optimize for time and space complexity.

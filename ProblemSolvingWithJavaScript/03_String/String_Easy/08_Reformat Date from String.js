@@ -1,0 +1,1 @@
+// Given a string representing a date in the format 'DD-MM-YYYY', write a function to convert it to the format 'YYYYMMDD'. The input date will always be valid and adhere to the mentioned format.

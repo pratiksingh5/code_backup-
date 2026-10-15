@@ -1,0 +1,15 @@
+1. Create react APP
+2. Create HLD -- []
+3. components: AutoComplete , SuggestionList
+4. App,jsx -- AutoComplete
+5. Add props in AutoComplete--> 
+        defaultData={defaultData}
+        placeholder={"Enter Player name"}
+        fetchSuggestions = {fetchSuggestions}
+        dataKey = {"name"}
+        onSelect = {(res) => console.log(res)}
+        onChange = {(input) => {}}
+        onBlur = {(e) => {}}
+        onFocus = {(e) => {}}
+        custumStyles = {{}}
+6.

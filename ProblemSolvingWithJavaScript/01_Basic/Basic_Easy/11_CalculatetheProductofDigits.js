@@ -1,0 +1,1 @@
+// Create a function that takes an integer as an input and returns the product of its digits. If the number is negative, the sign of the number should not affect the product of the digits.

@@ -1,0 +1,1 @@
+// Write a function in JavaScript that takes an array of numbers and returns the sum of all positive numbers in the array

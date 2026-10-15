@@ -1,0 +1,1 @@
+// Write a JavaScript function that takes a string as input and returns the first non-repeated character in the string. If all characters are repeated or the string is empty, return an empty string.

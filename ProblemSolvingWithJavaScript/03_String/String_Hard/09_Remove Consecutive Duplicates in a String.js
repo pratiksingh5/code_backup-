@@ -1,0 +1,1 @@
+// Write a function that takes a string as input and returns a new string with all consecutive duplicate characters removed. The order of the characters should be preserved except for consecutive duplicates, which should be reduced to a single character.

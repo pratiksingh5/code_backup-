@@ -1,0 +1,1 @@
+// Given a nested array, your task is to find and return the maximum depth of nesting. An empty array has a depth of 1. Each additional level of nested arrays within increases the depth by 1.

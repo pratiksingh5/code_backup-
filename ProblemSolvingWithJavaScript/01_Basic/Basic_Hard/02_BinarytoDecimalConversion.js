@@ -1,0 +1,1 @@
+// Convert a binary string into its decimal representation. 

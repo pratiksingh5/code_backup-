@@ -1,0 +1,1 @@
+// Given a sequence of consecutive letters in the alphabet, find the missing letter in the sequence. The function receives an array of lowercase characters representing a range from any starting letter of the alphabet to ending. The sequence will always have one letter missing, and the array length will always be 1 to 25 (inclusive). Return the missing letter as lowercase.

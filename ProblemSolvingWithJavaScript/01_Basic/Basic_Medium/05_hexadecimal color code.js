@@ -1,0 +1,1 @@
+// Write a function in JavaScript that generates a random hexadecimal color code. 

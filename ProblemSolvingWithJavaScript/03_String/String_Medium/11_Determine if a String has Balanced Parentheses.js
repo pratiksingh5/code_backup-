@@ -1,0 +1,1 @@
+// Write a function that determines if an input string has balanced parentheses. The string can contain any characters, but you only need to consider the following three types of parentheses: '()', '[]', and '{}'. Your function should return true if the parentheses are balanced, and false otherwise.

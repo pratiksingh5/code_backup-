@@ -1,0 +1,1 @@
+// Write a function to calculate the cumulative sum of an array of numbers. The cumulative sum at each index is the sum of the elements from the start up to that index.
